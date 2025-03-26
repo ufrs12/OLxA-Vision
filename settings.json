@@ -1,0 +1,9 @@
+{
+    "phone": {
+       "camera": "net.sourceforge.opencamera/.MainActivity",
+       "path": "/storage/emulated/0/DCIM/OpenCamera"
+    },
+    "pc": {
+        "path_photo_load": "C:\\Users\\Alexey\\Downloads"
+     }
+ }
