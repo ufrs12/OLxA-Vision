@@ -1,7 +1,7 @@
 # OLxA-Vision  
 CV in OLxA architectures  
 
-Для ленивых [здесь](https://drive.google.com/file/d/1HsPQv2CmZWNwvNqVni8zJpNWvrsp4QRh/view?usp=sharing) лежит версия для Windows.
+Для ленивых [здесь](https://drive.google.com/file/d/1HsPQv2CmZWNwvNqVni8zJpNWvrsp4QRh/view?usp=sharing){target="_blank"} лежит версия для Windows.
 
 ## Что потребуется:
 1. Компьютер (Windows или Linux, с USB или Wi-Fi).  
