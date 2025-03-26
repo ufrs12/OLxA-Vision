@@ -1,7 +1,7 @@
 # OLxA-Vision  
 CV in OLxA architectures  
 
-Для ленивых <a href="https://drive.google.com/file/d/1HsPQv2CmZWNwvNqVni8zJpNWvrsp4QRh/view?usp=sharing" target="_blank">здесь</a> лежит версия для Windows.
+Для ленивых <a href="https://drive.google.com/file/d/1HsPQv2CmZWNwvNqVni8zJpNWvrsp4QRh/view?usp=sharing" target="_blank">здесь</a> лежит версия для Windows.  
 <a href="https://www.youtube.com/watch?v=qpAnbO-m0w4" target="_blank">Видосик на YouTube, как настроить.</a>
 
 ## Что потребуется:
