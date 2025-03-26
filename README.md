@@ -18,7 +18,7 @@ MacroDroid - единственное приложение в этом роде,
 3. Настраиваем автоматизацию. Примерно так:  
 
 <p align="center">
- <img width="100px" src="docs/pics/Screenshot_MacroDroid.jpg" alt="qr"/>
+ <img width="400px" src="docs/pics/Screenshot_MacroDroid.jpg" alt="qr"/>
 </p>
 
 4. Запускаем Open Camera и проверяем, сделался ли снимок.  
